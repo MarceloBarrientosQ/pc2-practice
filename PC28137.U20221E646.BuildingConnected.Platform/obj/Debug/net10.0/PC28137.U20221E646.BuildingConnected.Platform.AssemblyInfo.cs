@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PC28137.U20221E646.BuildingConnected.Platform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c4a139530d78b3eb01bac3c0726b18aee5f162a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PC28137.U20221E646.BuildingConnected.Platform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PC28137.U20221E646.BuildingConnected.Platform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,23 +10,7 @@
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.14"/>
         <PackageReference Include="MySql.EntityFrameworkCore" Version="10.0.12" />
         <PackageReference Include="Scalar.AspNetCore" Version="*" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="ConstructionTenders\Application\Internal\CommandServices\" />
-      <Folder Include="ConstructionTenders\Domain\Model\Aggregates\" />
-      <Folder Include="ConstructionTenders\Domain\Model\Commands\" />
-      <Folder Include="ConstructionTenders\Domain\Model\ValueObjects\" />
-      <Folder Include="ConstructionTenders\Domain\Repositories\" />
-      <Folder Include="ConstructionTenders\Domain\Services\" />
-      <Folder Include="ConstructionTenders\Infrastructure\Persistence\EFC\Configuration\Extensions\" />
-      <Folder Include="ConstructionTenders\Infrastructure\Persistence\EFC\Repositories\" />
-      <Folder Include="ConstructionTenders\Interfaces\REST\Resources\" />
-      <Folder Include="ConstructionTenders\Interfaces\REST\Transform\" />
-      <Folder Include="Shared\Infrastructure\Localization\" />
-      <Folder Include="Shared\Infrastructure\Persistence\EFC\Configuration\Extensions\" />
-      <Folder Include="Shared\Infrastructure\Persistence\EFC\Repositories\" />
-      <Folder Include="Shared\Interfaces\ASP\Configuration\" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
     </ItemGroup>
 
 </Project>
