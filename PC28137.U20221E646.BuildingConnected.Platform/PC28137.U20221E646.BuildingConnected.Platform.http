@@ -1,0 +1,6 @@
+@PC28137.U20221E646.BuildingConnected.Platform_HostAddress = http://localhost:5191
+
+GET {{PC28137.U20221E646.BuildingConnected.Platform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
